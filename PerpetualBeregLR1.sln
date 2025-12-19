@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerpetualBeregLR1", "PerpetualBeregLR1\PerpetualBeregLR1.csproj", "{97FD1A65-E78F-4100-8160-5C513D6D8BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FD1A65-E78F-4100-8160-5C513D6D8BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FD1A65-E78F-4100-8160-5C513D6D8BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FD1A65-E78F-4100-8160-5C513D6D8BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FD1A65-E78F-4100-8160-5C513D6D8BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB3B2AA-7ABC-407C-8F3E-79908D48E751}
+	EndGlobalSection
+EndGlobal
